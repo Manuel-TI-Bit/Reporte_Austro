@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="AUSTROMEX_Examen/AUSTROMEX_Examen.csproj" Id="85877f02-845e-43d0-9c0d-8d4e52a0d7fa">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
